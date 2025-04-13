@@ -1,0 +1,498 @@
+[
+    {
+        "id": "boolean_01",
+        "difficulty": "easy",
+        "premises": [
+            "If it is raining, then the ground is wet.",
+            "It is raining."
+        ],
+        "question": "Is the ground wet?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_02",
+        "difficulty": "easy",
+        "premises": [
+            "If the alarm is set, the house is secure.",
+            "The alarm is not set."
+        ],
+        "question": "Is the house secure?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_03",
+        "difficulty": "easy",
+        "premises": [
+            "If the lights are off, then the room is dark.",
+            "The room is not dark."
+        ],
+        "question": "Are the lights off?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_04",
+        "difficulty": "easy",
+        "premises": [
+            "If a student studies, then they pass the test.",
+            "The student did not pass the test."
+        ],
+        "question": "Did they study?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_05",
+        "difficulty": "easy",
+        "premises": [
+            "If the switch is flipped, then the machine turns on.",
+            "The machine did not turn on."
+        ],
+        "question": "Was the switch flipped?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_06",
+        "difficulty": "easy",
+        "premises": [
+            "If a number is even, then it is divisible by 2.",
+            "The number is 7."
+        ],
+        "question": "Is it divisible by 2?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_07",
+        "difficulty": "easy",
+        "premises": [
+            "If the oven is on, then it is hot.",
+            "The oven is on."
+        ],
+        "question": "Is it hot?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_08",
+        "difficulty": "easy",
+        "premises": [
+            "If an animal is a dog, then it is a mammal.",
+            "The animal is a cat."
+        ],
+        "question": "Is it a dog?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_09",
+        "difficulty": "easy",
+        "premises": [
+            "If a car runs out of fuel, then it stops.",
+            "The car did not stop."
+        ],
+        "question": "Did it run out of fuel?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_10",
+        "difficulty": "easy",
+        "premises": [
+            "If a person eats peanuts, then they have an allergic reaction.",
+            "The person ate peanuts."
+        ],
+        "question": "Did they have an allergic reaction?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_11",
+        "difficulty": "easy",
+        "premises": [
+            "If the file is deleted, then it cannot be recovered.",
+            "The file was not deleted."
+        ],
+        "question": "Can it be recovered?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_12",
+        "difficulty": "easy",
+        "premises": [
+            "If the password is incorrect, then access is denied.",
+            "Access is not denied."
+        ],
+        "question": "Is the password incorrect?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_13",
+        "difficulty": "easy",
+        "premises": [
+            "If water freezes, then it turns into ice.",
+            "Water did not turn into ice."
+        ],
+        "question": "Did it freeze?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_14",
+        "difficulty": "easy",
+        "premises": [
+            "If the sun sets, then it becomes dark.",
+            "The sun has not set."
+        ],
+        "question": "Is it dark?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_15",
+        "difficulty": "easy",
+        "premises": [
+            "If a plant does not get sunlight, then it wilts.",
+            "The plant got sunlight."
+        ],
+        "question": "Did it wilt?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_16",
+        "difficulty": "medium",
+        "premises": [
+            "If the temperature is below freezing, then the lake is frozen.",
+            "If the lake is frozen, then skating is permitted.",
+            "Skating is not permitted."
+        ],
+        "question": "Is the temperature below freezing?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_17",
+        "difficulty": "medium",
+        "premises": [
+            "Either the train is late or the meeting is canceled.",
+            "If the meeting is canceled, then the project is delayed.",
+            "The project is not delayed."
+        ],
+        "question": "Is the train late?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_18",
+        "difficulty": "medium",
+        "premises": [
+            "All tigers have stripes.",
+            "No animals with stripes can change their color.",
+            "Some animals can change their color."
+        ],
+        "question": "Can tigers change their color?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_19",
+        "difficulty": "medium",
+        "premises": [
+            "If it rains, the game will be postponed.",
+            "If the game is postponed, tickets can be refunded.",
+            "Tickets cannot be refunded."
+        ],
+        "question": "Did it rain?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_20",
+        "difficulty": "medium",
+        "premises": [
+            "Either the server is down or the database is corrupted.",
+            "If the database is corrupted, then data recovery is required.",
+            "Data recovery is not required."
+        ],
+        "question": "Is the server down?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_21",
+        "difficulty": "medium",
+        "premises": [
+            "If the battery is charged, then the phone works.",
+            "The phone works only if the software is updated.",
+            "The phone does not work."
+        ],
+        "question": "Is the software updated?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_22",
+        "difficulty": "medium",
+        "premises": [
+            "If X is greater than 5, then Y is less than 10.",
+            "Y is not less than 10.",
+            "Z equals X plus Y."
+        ],
+        "question": "Is X greater than 5?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_23",
+        "difficulty": "medium",
+        "premises": [
+            "All students who study hard pass the exam.",
+            "Some students who don't study hard also pass the exam.",
+            "John did not pass the exam."
+        ],
+        "question": "Did John study hard?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_24",
+        "difficulty": "medium",
+        "premises": [
+            "If the security alarm is triggered, then the police are notified.",
+            "If the police are notified, then they arrive within 10 minutes.",
+            "The police arrived within 10 minutes."
+        ],
+        "question": "Was the security alarm triggered?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_25",
+        "difficulty": "medium",
+        "premises": [
+            "All mammals breathe oxygen.",
+            "No fish breathe oxygen above water.",
+            "Dolphins breathe oxygen."
+        ],
+        "question": "Are dolphins fish?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_26",
+        "difficulty": "medium",
+        "premises": [
+            "If the network is secure, then unauthorized access is prevented.",
+            "If unauthorized access is prevented, then data breaches cannot occur.",
+            "A data breach occurred."
+        ],
+        "question": "Is the network secure?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_27",
+        "difficulty": "medium",
+        "premises": [
+            "Either the car needs new brakes or new tires.",
+            "If the car needs new brakes, then it is unsafe to drive.",
+            "The car is safe to drive."
+        ],
+        "question": "Does the car need new tires?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_28",
+        "difficulty": "medium",
+        "premises": [
+            "All valid proofs use sound logic.",
+            "Some arguments that use sound logic are not convincing.",
+            "This argument is convincing."
+        ],
+        "question": "Is this a valid proof?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_29",
+        "difficulty": "medium",
+        "premises": [
+            "If the code compiles, then it can be executed.",
+            "The code compiles if and only if there are no syntax errors.",
+            "The code cannot be executed."
+        ],
+        "question": "Are there syntax errors?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_30",
+        "difficulty": "medium",
+        "premises": [
+            "All squares are rectangles.",
+            "All rectangles have four sides.",
+            "Figure X has five sides."
+        ],
+        "question": "Is Figure X a square?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_31",
+        "difficulty": "hard",
+        "premises": [
+            "If the security system is updated, then the firewall is active.",
+            "If the firewall is active, then unauthorized access is blocked.",
+            "If unauthorized access is blocked, then data is secure.",
+            "Data is not secure."
+        ],
+        "question": "Is the security system updated?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_32",
+        "difficulty": "hard",
+        "premises": [
+            "If it rained yesterday, then the ground is wet today.",
+            "If the sprinklers were on, then the ground is wet today.",
+            "If the ground is wet today, then the soccer game will be canceled.",
+            "The soccer game was not canceled."
+        ],
+        "question": "Did it rain yesterday?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_33",
+        "difficulty": "hard",
+        "premises": [
+            "If the temperature drops below freezing, then the pipes will burst unless they are insulated.",
+            "The pipes are not insulated.",
+            "The pipes did not burst."
+        ],
+        "question": "Did the temperature drop below freezing?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_34",
+        "difficulty": "hard",
+        "premises": [
+            "If the flight is delayed, then the meeting will be rescheduled.",
+            "If the meeting is rescheduled, then the project deadline will be extended.",
+            "If the project deadline is extended, then the client will be notified.",
+            "The client was not notified."
+        ],
+        "question": "Was the flight delayed?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_35",
+        "difficulty": "hard",
+        "premises": [
+            "Either the blue key or the red key opens the door, but not both.",
+            "If the blue key opens the door, then the alarm is triggered.",
+            "The alarm was not triggered.",
+            "The door was opened."
+        ],
+        "question": "Does the red key open the door?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_36",
+        "difficulty": "hard",
+        "premises": [
+            "If the internet is down, then email cannot be sent.",
+            "If the server is overloaded, then email cannot be sent.",
+            "If email cannot be sent, then the report will be late.",
+            "The report was on time."
+        ],
+        "question": "Is the internet down?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_37",
+        "difficulty": "hard",
+        "premises": [
+            "If the contract is signed, then the work begins next Monday.",
+            "If the work begins next Monday, then materials must be ordered by Friday.",
+            "Materials were not ordered by Friday.",
+            "The work must begin on schedule."
+        ],
+        "question": "Was the contract signed?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_38",
+        "difficulty": "hard",
+        "premises": [
+            "All valid transactions must have a digital signature.",
+            "If a transaction has a digital signature, then it must be logged in the system.",
+            "If a transaction is logged in the system, then it appears in the audit trail.",
+            "Transaction #1234 does not appear in the audit trail."
+        ],
+        "question": "Does Transaction #1234 have a digital signature?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_39",
+        "difficulty": "hard",
+        "premises": [
+            "If the power goes out, then the backup generator starts.",
+            "If the backup generator starts, then critical systems remain operational.",
+            "Some critical systems are not operational.",
+            "The backup generator started."
+        ],
+        "question": "Did the power go out?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_40",
+        "difficulty": "hard",
+        "premises": [
+            "If the test results are positive, then the patient must be quarantined.",
+            "If the patient is quarantined, then all contacts must be traced.",
+            "Some contacts were not traced.",
+            "The patient was quarantined."
+        ],
+        "question": "Were the test results positive?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_41",
+        "difficulty": "hard",
+        "premises": [
+            "If it snows heavily, then schools close.",
+            "If schools close, then parents must find alternative childcare.",
+            "If parents must find alternative childcare, then workplace productivity decreases.",
+            "Workplace productivity remained unchanged."
+        ],
+        "question": "Did it snow heavily?",
+        "answer": "No"
+    },
+    {
+        "id": "boolean_42",
+        "difficulty": "hard",
+        "premises": [
+            "If an employee completes training, then they receive a certificate.",
+            "If an employee receives a certificate, then they are eligible for promotion.",
+            "If an employee is eligible for promotion, then their salary increases.",
+            "John's salary did not increase."
+        ],
+        "question": "Did John complete training?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_43",
+        "difficulty": "hard",
+        "premises": [
+            "Either the file was corrupted or the download was incomplete, but not both.",
+            "If the file was corrupted, then data recovery is not possible.",
+            "Data recovery is possible.",
+            "The file can be opened."
+        ],
+        "question": "Was the download incomplete?",
+        "answer": "Yes"
+    },
+    {
+        "id": "boolean_44",
+        "difficulty": "hard",
+        "premises": [
+            "If the lights flicker, then there is an electrical problem.",
+            "If there is an electrical problem, then an electrician must be called.",
+            "If an electrician is called, then repairs will be made.",
+            "If repairs are made, then the building is safe.",
+            "The building is not safe."
+        ],
+        "question": "Did the lights flicker?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "boolean_45",
+        "difficulty": "hard",
+        "premises": [
+            "If the lock is broken, then the door cannot be secured.",
+            "If the door cannot be secured, then security personnel must be present.",
+            "If security personnel are present, then access is restricted.",
+            "Access is not restricted.",
+            "Security personnel are not present."
+        ],
+        "question": "Is the lock broken?",
+        "answer": "Unknown"
+    }
+]
