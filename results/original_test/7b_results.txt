@@ -1,0 +1,133 @@
+
+Results Summary:
+Total questions: 20
+Correct answers: 5
+Incorrect answers: 15
+Accuracy: 25.00%
+
+Incorrect Answers:
+
+1. Question ID: boolean_02
+   Question: Is the house secure?
+   Premises:
+     - If the alarm is set, the house is secure.
+     - The alarm is not set.
+   Correct answer: Unknown
+   Your answer: Yes
+
+2. Question ID: boolean_03
+   Question: Are the lights off?
+   Premises:
+     - If the lights are off, then the room is dark.
+     - The room is not dark.
+   Correct answer: No
+   Your answer: Unknown
+
+3. Question ID: boolean_04
+   Question: Did they study?
+   Premises:
+     - If a student studies, then they pass the test.
+     - The student did not pass the test.
+   Correct answer: No
+   Your answer: Yes
+
+4. Question ID: boolean_05
+   Question: Was the switch flipped?
+   Premises:
+     - If the switch is flipped, then the machine turns on.
+     - The machine did not turn on.
+   Correct answer: No
+   Your answer: Yes
+
+5. Question ID: boolean_08
+   Question: Is it a dog?
+   Premises:
+     - If an animal is a dog, then it is a mammal.
+     - The animal is a cat.
+   Correct answer: No
+   Your answer: Unknown
+
+6. Question ID: boolean_09
+   Question: Did it run out of fuel?
+   Premises:
+     - If a car runs out of fuel, then it stops.
+     - The car did not stop.
+   Correct answer: No
+   Your answer: Unknown
+
+7. Question ID: boolean_11
+   Question: Can it be recovered?
+   Premises:
+     - If the file is deleted, then it cannot be recovered.
+     - The file was not deleted.
+   Correct answer: Unknown
+   Your answer: Yes
+
+8. Question ID: boolean_12
+   Question: Is the password incorrect?
+   Premises:
+     - If the password is incorrect, then access is denied.
+     - Access is not denied.
+   Correct answer: No
+   Your answer: Yes
+
+9. Question ID: boolean_13
+   Question: Did it freeze?
+   Premises:
+     - If water freezes, then it turns into ice.
+     - Water did not turn into ice.
+   Correct answer: No
+   Your answer: Yes
+
+10. Question ID: boolean_14
+   Question: Is it dark?
+   Premises:
+     - If the sun sets, then it becomes dark.
+     - The sun has not set.
+   Correct answer: Unknown
+   Your answer: No
+
+11. Question ID: boolean_16
+   Question: Is the temperature below freezing?
+   Premises:
+     - If the temperature is below freezing, then the lake is frozen.
+     - If the lake is frozen, then skating is permitted.
+     - Skating is not permitted.
+   Correct answer: No
+   Your answer: Unknown
+
+12. Question ID: boolean_17
+   Question: Is the train late?
+   Premises:
+     - Either the train is late or the meeting is canceled.
+     - If the meeting is canceled, then the project is delayed.
+     - The project is not delayed.
+   Correct answer: Yes
+   Your answer: Unknown
+
+13. Question ID: boolean_18
+   Question: Can tigers change their color?
+   Premises:
+     - All tigers have stripes.
+     - No animals with stripes can change their color.
+     - Some animals can change their color.
+   Correct answer: No
+   Your answer: Unknown
+
+14. Question ID: boolean_19
+   Question: Did it rain?
+   Premises:
+     - If it rains, the game will be postponed.
+     - If the game is postponed, tickets can be refunded.
+     - Tickets cannot be refunded.
+   Correct answer: No
+   Your answer: Unknown
+
+15. Question ID: boolean_20
+   Question: Did John study hard?
+   Premises:
+     - All students who study hard pass the exam.
+     - Some students who don't study hard also pass the exam.
+     - John did not pass the exam.
+   Correct answer: No
+   Your answer: Unknown

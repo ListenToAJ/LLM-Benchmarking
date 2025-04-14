@@ -1,0 +1,14 @@
+ID: boolean_custom_16
+No
+
+ID: boolean_custom_17
+Unknown
+
+ID: boolean_custom_18
+Unknown
+
+ID: boolean_custom_19
+Yes
+
+ID: boolean_custom_20
+Unknown
