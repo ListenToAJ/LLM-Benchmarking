@@ -1,0 +1,59 @@
+ID: boolean_01
+Yes
+
+ID: boolean_02
+Unknown
+
+ID: boolean_03
+No
+
+ID: boolean_04
+Unknown
+
+ID: boolean_05
+Unknown
+
+ID: boolean_06
+No
+
+ID: boolean_07
+Yes
+
+ID: boolean_08
+No
+
+ID: boolean_09
+No
+
+ID: boolean_10
+Yes
+
+ID: boolean_11
+Unknown
+
+ID: boolean_12
+Yes
+
+ID: boolean_13
+No
+
+ID: boolean_14
+No
+
+ID: boolean_15
+Unknown
+
+ID: boolean_16
+Unknown
+
+ID: boolean_17
+No
+
+ID: boolean_18
+Yes
+
+ID: boolean_19
+Unknown
+
+ID: boolean_20
+Unknown

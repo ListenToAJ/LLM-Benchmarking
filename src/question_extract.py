@@ -29,3 +29,11 @@ if __name__ == "__main__":
     else:
         json_file_path = sys.argv[1]
         print_premises_questions(json_file_path)
+        print("""Answer questions in the following format:
+ID: boolean_01
+Yes / No / Unknown
+
+ID: boolean_02
+Yes / No / Unknown
+
+...""")
