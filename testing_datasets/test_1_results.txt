@@ -1,59 +1,61 @@
-ID: boolean_01
-Yes
 
-ID: boolean_02
-Unknown
+Results Summary:
+Total questions: 20
+Correct answers: 14
+Incorrect answers: 6
+Accuracy: 70.00%
 
-ID: boolean_03
-No
+Incorrect Answers:
 
-ID: boolean_04
-Unknown
+1. Question ID: propositional_04
+   Question: Did they study?
+   Premises:
+     - If a student studies, then they pass the test.
+     - The student did not pass the test.
+   Correct answer: No
+   Your answer: Unknown
 
-ID: boolean_05
-Unknown
+2. Question ID: propositional_05
+   Question: Was the switch flipped?
+   Premises:
+     - If the switch is flipped, then the machine turns on.
+     - The machine did not turn on.
+   Correct answer: No
+   Your answer: Unknown
 
-ID: boolean_06
-No
+3. Question ID: propositional_11
+   Question: Is the temperature below freezing?
+   Premises:
+     - If the temperature is below freezing, then the lake is frozen.
+     - If the lake is frozen, then skating is permitted.
+     - Skating is not permitted.
+   Correct answer: No
+   Your answer: Unknown
 
-ID: boolean_07
-Yes
+4. Question ID: propositional_15
+   Question: Did John study hard?
+   Premises:
+     - All students who study hard pass the exam.
+     - Some students who don't study hard also pass the exam.
+     - John did not pass the exam.
+   Correct answer: No
+   Your answer: Unknown
 
-ID: boolean_08
-No
+5. Question ID: propositional_16
+   Question: Did Alica take a coffee break?
+   Premises:
+     - If Alice takes a coffee break, then Bob finishes the report.
+     - If Bob finishes the report, then the team meets at 3 PM.
+     - The team did not meet at 3 PM.
+   Correct answer: No
+   Your answer: Unknown
 
-ID: boolean_09
-No
-
-ID: boolean_10
-Yes
-
-ID: boolean_11
-Unknown
-
-ID: boolean_12
-Yes
-
-ID: boolean_13
-No
-
-ID: boolean_14
-No
-
-ID: boolean_15
-Unknown
-
-ID: boolean_16
-Unknown
-
-ID: boolean_17
-No
-
-ID: boolean_18
-Yes
-
-ID: boolean_19
-Unknown
-
-ID: boolean_20
-Unknown
+6. Question ID: propositional_18
+   Question: Did Hannah check the weather app?
+   Premises:
+     - If Hannah checks the weather app, she brings a raincoat.
+     - If it rains and she doesn’t bring a raincoat, she gets soaked.
+     - Hannah did not get soaked.
+     - It rained.
+   Correct answer: Unknown
+   Your answer: Yes

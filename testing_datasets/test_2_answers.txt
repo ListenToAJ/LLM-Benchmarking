@@ -1,0 +1,89 @@
+ID: boolean_1
+F
+
+ID: boolean_2
+T
+
+ID: boolean_3
+T
+
+ID: boolean_4
+T
+
+ID: boolean_5
+F
+
+ID: boolean_6
+T
+
+ID: boolean_7
+T
+
+ID: boolean_8
+T
+
+ID: boolean_9
+T
+
+ID: boolean_10
+T
+
+ID: boolean_11
+T
+
+ID: boolean_12
+F
+
+ID: boolean_13
+T
+
+ID: boolean_14
+T
+
+ID: boolean_15
+T
+
+ID: boolean_16
+F
+
+ID: boolean_17
+T
+
+ID: boolean_18
+F
+
+ID: boolean_19
+T
+
+ID: boolean_20
+T
+
+ID: boolean_21
+T
+
+ID: boolean_22
+F
+
+ID: boolean_23
+T
+
+ID: boolean_24
+F
+
+ID: boolean_25
+T
+
+ID: boolean_26
+T
+
+ID: boolean_27
+T
+
+ID: boolean_28
+F
+
+ID: boolean_29
+T
+
+ID: boolean_30
+T

@@ -24,16 +24,16 @@ def print_premises_questions(json_file_path):
         print(f"Error: {str(e)}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: python script1.py <json_file_path>")
+    if len(sys.argv) != 3:
+        print("Usage: python script1.py <json_file_path> \"Yes / No / Unknown\" OR \"T / F\"")
     else:
         json_file_path = sys.argv[1]
         print_premises_questions(json_file_path)
-        print("""Answer questions in the following format:
+        print(f"""Answer questions in the following format:
 ID: boolean_01
-Yes / No / Unknown
+{sys.argv[2]}
 
 ID: boolean_02
-Yes / No / Unknown
+{sys.argv[2]}
 
 ...""")

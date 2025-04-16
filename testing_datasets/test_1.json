@@ -1,13 +1,16 @@
 [
   {
-    "id": "boolean_01",
+    "id": "propositional_01",
     "difficulty": "easy",
-    "premises": ["If it is raining, then the ground is wet.", "It is raining."],
+    "premises": [
+      "If it is raining, then the ground is wet.",
+      "It is raining."
+    ],
     "question": "Is the ground wet?",
     "answer": "Yes"
   },
   {
-    "id": "boolean_02",
+    "id": "propositional_02",
     "difficulty": "easy",
     "premises": [
       "If the alarm is set, the house is secure.",
@@ -17,7 +20,7 @@
     "answer": "Unknown"
   },
   {
-    "id": "boolean_03",
+    "id": "propositional_03",
     "difficulty": "easy",
     "premises": [
       "If the lights are off, then the room is dark.",
@@ -27,7 +30,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_04",
+    "id": "propositional_04",
     "difficulty": "easy",
     "premises": [
       "If a student studies, then they pass the test.",
@@ -37,7 +40,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_05",
+    "id": "propositional_05",
     "difficulty": "easy",
     "premises": [
       "If the switch is flipped, then the machine turns on.",
@@ -47,7 +50,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_06",
+    "id": "propositional_06",
     "difficulty": "easy",
     "premises": [
       "If a number is even, then it is divisible by 2.",
@@ -57,14 +60,17 @@
     "answer": "No"
   },
   {
-    "id": "boolean_07",
+    "id": "propositional_07",
     "difficulty": "easy",
-    "premises": ["If the oven is on, then it is hot.", "The oven is on."],
+    "premises": [
+      "If the oven is on, then it is hot.",
+      "The oven is on."
+    ],
     "question": "Is it hot?",
     "answer": "Yes"
   },
   {
-    "id": "boolean_08",
+    "id": "propositional_08",
     "difficulty": "easy",
     "premises": [
       "If an animal is a dog, then it is a mammal.",
@@ -74,7 +80,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_09",
+    "id": "propositional_09",
     "difficulty": "easy",
     "premises": [
       "If a car runs out of fuel, then it stops.",
@@ -84,7 +90,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_10",
+    "id": "propositional_10",
     "difficulty": "easy",
     "premises": [
       "If a person eats peanuts, then they have an allergic reaction.",
@@ -94,7 +100,7 @@
     "answer": "Yes"
   },
   {
-    "id": "boolean_11",
+    "id": "propositional_11",
     "difficulty": "medium",
     "premises": [
       "If the temperature is below freezing, then the lake is frozen.",
@@ -105,7 +111,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_12",
+    "id": "propositional_12",
     "difficulty": "medium",
     "premises": [
       "Either the train is late or the meeting is canceled.",
@@ -116,7 +122,7 @@
     "answer": "Yes"
   },
   {
-    "id": "boolean_13",
+    "id": "propositional_13",
     "difficulty": "medium",
     "premises": [
       "All tigers have stripes.",
@@ -127,7 +133,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_14",
+    "id": "propositional_14",
     "difficulty": "medium",
     "premises": [
       "If it rains, the game will be postponed.",
@@ -138,7 +144,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_15",
+    "id": "propositional_15",
     "difficulty": "medium",
     "premises": [
       "All students who study hard pass the exam.",
@@ -149,7 +155,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_16",
+    "id": "propositional_16",
     "difficulty": "hard",
     "premises": [
       "If Alice takes a coffee break, then Bob finishes the report.",
@@ -160,7 +166,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_17",
+    "id": "propositional_17",
     "difficulty": "hard",
     "premises": [
       "If Emily left her keys at home, then she couldn’t unlock the office.",
@@ -171,7 +177,7 @@
     "answer": "No"
   },
   {
-    "id": "boolean_18",
+    "id": "propositional_18",
     "difficulty": "hard",
     "premises": [
       "If Hannah checks the weather app, she brings a raincoat.",
@@ -183,7 +189,7 @@
     "answer": "Unknown"
   },
   {
-    "id": "boolean_19",
+    "id": "propositional_19",
     "difficulty": "",
     "premises": [
       "If Karen takes the bus, then she arrives on time.",
@@ -195,7 +201,7 @@
     "answer": "Unknown"
   },
   {
-    "id": "boolean_20",
+    "id": "propositional_20",
     "difficulty": "hard",
     "premises": [
       "If Julia receives an urgent message, then she calls her manager.",

@@ -3,7 +3,7 @@ import sys
 import re
 
 def parse_answers_file(answers_file_path):
-    """Parse the answers file with the specified format."""
+    """Parse the answers file to extract ID and answer pairs."""
     answers = {}
     
     try:
@@ -11,11 +11,14 @@ def parse_answers_file(answers_file_path):
             content = file.read()
             
         # Use regex to extract ID and answer pairs
-        pattern = r"ID: ([\w\d_]+)\n(Yes|No|Unknown)"
-        matches = re.findall(pattern, content)
+        # Modified to capture any answer text (not just Yes/No/Unknown)
+        pattern = r"ID: ([\w\d_]+)\s*\n(.*?)(?=\s*\n\s*ID:|$)"
+        matches = re.findall(pattern, content, re.DOTALL)
         
         for match in matches:
             question_id, answer = match
+            # Strip whitespace and get just the first line of the answer
+            answer = answer.strip().split('\n')[0]
             answers[question_id] = answer
         
         return answers
@@ -66,7 +69,7 @@ def score_answers(questions_file_path, answers_file_path):
         print(f"Correct answers: {correct_count}")
         print(f"Incorrect answers: {len(incorrect_answers)}")
         
-        if correct_count > 0:
+        if correct_count > 0 and total_count > 0:
             accuracy = (correct_count / total_count) * 100
             print(f"Accuracy: {accuracy:.2f}%")
         

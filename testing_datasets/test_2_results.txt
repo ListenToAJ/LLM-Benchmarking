@@ -1,0 +1,15 @@
+
+Results Summary:
+Total questions: 30
+Correct answers: 29
+Incorrect answers: 1
+Accuracy: 96.67%
+
+Incorrect Answers:
+
+1. Question ID: boolean_21
+   Question: Evaluate this expression.
+   Premises:
+     - ((T AND F) OR (NOT T AND T)) XOR (NOT ((F OR T) AND (T OR F)))
+   Correct answer: F
+   Your answer: T
