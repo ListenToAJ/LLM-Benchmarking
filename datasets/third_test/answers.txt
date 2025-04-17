@@ -1,0 +1,59 @@
+ID: propositional_01
+Yes
+
+ID: propositional_02
+Unknown
+
+ID: propositional_03
+No
+
+ID: propositional_04
+No
+
+ID: propositional_05
+No
+
+ID: propositional_06
+No
+
+ID: propositional_07
+Yes
+
+ID: propositional_08
+No
+
+ID: propositional_09
+No
+
+ID: propositional_10
+Yes
+
+ID: propositional_11
+No
+
+ID: propositional_12
+Yes
+
+ID: propositional_13
+No
+
+ID: propositional_14
+No
+
+ID: propositional_15
+No
+
+ID: propositional_16
+No
+
+ID: propositional_17
+No
+
+ID: propositional_18
+Yes
+
+ID: propositional_19
+Unknown
+
+ID: propositional_20
+Unknown

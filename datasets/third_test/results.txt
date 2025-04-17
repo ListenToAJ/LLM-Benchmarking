@@ -1,0 +1,18 @@
+
+Results Summary:
+Total questions: 20
+Correct answers: 19
+Incorrect answers: 1
+Accuracy: 95.00%
+
+Incorrect Answers:
+
+1. Question ID: propositional_18
+   Question: Did the temperature drop below freezing?
+   Premises:
+     - If the temperature drops below freezing, the antifreeze system activates.
+     - If frost forms and the antifreeze system does not activate, the pipes burst.
+     - The pipes did not burst.
+     - Frost formed.
+   Correct answer: Unknown
+   Your answer: Yes

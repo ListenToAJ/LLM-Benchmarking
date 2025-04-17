@@ -1,0 +1,215 @@
+[
+    {
+        "id": "propositional_01",
+        "difficulty": "easy",
+        "premises": [
+            "If it is raining, then the ground is wet.",
+            "It is raining."
+        ],
+        "question": "Is the ground wet?",
+        "answer": "Yes"
+    },
+    {
+        "id": "propositional_02",
+        "difficulty": "easy",
+        "premises": [
+            "If the alarm is set, the house is secure.",
+            "The alarm is not set."
+        ],
+        "question": "Is the house secure?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "propositional_03",
+        "difficulty": "easy",
+        "premises": [
+            "If the lights are off, then the room is dark.",
+            "The room is not dark."
+        ],
+        "question": "Are the lights off?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_04",
+        "difficulty": "easy",
+        "premises": [
+            "If a metal is heated to 1000°C, then it changes color.",
+            "The metal did not change color."
+        ],
+        "question": "Was the metal heated to 1000°C?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_05",
+        "difficulty": "easy",
+        "premises": [
+            "If a computer receives a valid password, then it opens the desktop.",
+            "The computer did not open the desktop."
+        ],
+        "question": "Did the computer receive a valid password?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_06",
+        "difficulty": "easy",
+        "premises": [
+            "If a number is even, then it is divisible by 2.",
+            "The number is 7."
+        ],
+        "question": "Is it divisible by 2?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_07",
+        "difficulty": "easy",
+        "premises": [
+            "If the oven is on, then it is hot.",
+            "The oven is on."
+        ],
+        "question": "Is it hot?",
+        "answer": "Yes"
+    },
+    {
+        "id": "propositional_08",
+        "difficulty": "easy",
+        "premises": [
+            "If an animal is a dog, then it is a mammal.",
+            "The animal is a cat."
+        ],
+        "question": "Is it a dog?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_09",
+        "difficulty": "easy",
+        "premises": [
+            "If a car runs out of fuel, then it stops.",
+            "The car did not stop."
+        ],
+        "question": "Did it run out of fuel?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_10",
+        "difficulty": "easy",
+        "premises": [
+            "If a person eats peanuts, then they have an allergic reaction.",
+            "The person ate peanuts."
+        ],
+        "question": "Did they have an allergic reaction?",
+        "answer": "Yes"
+    },
+    {
+        "id": "propositional_11",
+        "difficulty": "medium",
+        "premises": [
+            "If the chemical solution pH drops below 5, then a precipitate forms.",
+            "If a precipitate forms, then the solution turns cloudy.",
+            "The solution is not cloudy."
+        ],
+        "question": "Is the chemical solution pH below 5?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_12",
+        "difficulty": "medium",
+        "premises": [
+            "Either the train is late or the meeting is canceled.",
+            "If the meeting is canceled, then the project is delayed.",
+            "The project is not delayed."
+        ],
+        "question": "Is the train late?",
+        "answer": "Yes"
+    },
+    {
+        "id": "propositional_13",
+        "difficulty": "medium",
+        "premises": [
+            "All tigers have stripes.",
+            "No animals with stripes can change their color.",
+            "Some animals can change their color."
+        ],
+        "question": "Can tigers change their color?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_14",
+        "difficulty": "medium",
+        "premises": [
+            "If it rains, the game will be postponed.",
+            "If the game is postponed, tickets can be refunded.",
+            "Tickets cannot be refunded."
+        ],
+        "question": "Did it rain?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_15",
+        "difficulty": "medium",
+        "premises": [
+            "All computer programs with optimized code execute within 2 seconds.",
+            "Some computer programs without optimized code also execute within 2 seconds.",
+            "The database query did not execute within 2 seconds."
+        ],
+        "question": "Did the database query have optimized code?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_16",
+        "difficulty": "hard",
+        "premises": [
+            "If the temperature rises above 25°C, then the automatic sprinkler system activates.",
+            "If the automatic sprinkler system activates, then the soil moisture level increases.",
+            "The soil moisture level did not increase."
+        ],
+        "question": "Did the temperature rise above 25°C?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_17",
+        "difficulty": "hard",
+        "premises": [
+            "If Emily left her keys at home, then she couldn’t unlock the office.",
+            "If Emily couldn’t unlock the office, Frank called security.",
+            "Frank did not call security."
+        ],
+        "question": "Did Emily leave her keys at home?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_18",
+        "difficulty": "hard",
+        "premises": [
+            "If the temperature drops below freezing, the antifreeze system activates.",
+            "If frost forms and the antifreeze system does not activate, the pipes burst.",
+            "The pipes did not burst.",
+            "Frost formed."
+        ],
+        "question": "Did the temperature drop below freezing?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "propositional_19",
+        "difficulty": "",
+        "premises": [
+            "If Karen takes the bus, then she arrives on time.",
+            "If Karen takes the train, then she arrives on time.",
+            "If Karen takes a taxi, then she does not arrive on time.",
+            "Karen arrived on time."
+        ],
+        "question": "Did Karen take the train?",
+        "answer": "Unknown"
+    },
+    {
+        "id": "propositional_20",
+        "difficulty": "hard",
+        "premises": [
+            "If Julia receives an urgent message, then she calls her manager.",
+            "If Julia calls her manager, then she confronts a suspected policy violation.",
+            "If Julia confronts a suspected policy violation, then she either is commended for her integrity or faces disciplinary action.",
+            "Julia did not face disciplinary action."
+        ],
+        "question": "Did Julia receive an urgent message?",
+        "answer": "Unknown"
+    }
+]

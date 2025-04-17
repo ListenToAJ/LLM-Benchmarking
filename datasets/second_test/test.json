@@ -1,0 +1,67 @@
+[
+    {
+        "id": "propositional_04_rewrite",
+        "difficulty": "easy",
+        "premises": [
+            "If a metal is heated to 1000°C, then it changes color.",
+            "The metal did not change color."
+        ],
+        "question": "Was the metal heated to 1000°C?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_05_rewrite",
+        "difficulty": "easy",
+        "premises": [
+            "If a computer receives a valid password, then it opens the desktop.",
+            "The computer did not open the desktop."
+        ],
+        "question": "Did the computer receive a valid password?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_11_rewrite",
+        "difficulty": "medium",
+        "premises": [
+            "If the chemical solution pH drops below 5, then a precipitate forms.",
+            "If a precipitate forms, then the solution turns cloudy.",
+            "The solution is not cloudy."
+        ],
+        "question": "Is the chemical solution pH below 5?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_15_rewrite",
+        "difficulty": "medium",
+        "premises": [
+            "All computer programs with optimized code execute within 2 seconds.",
+            "Some computer programs without optimized code also execute within 2 seconds.",
+            "The database query did not execute within 2 seconds."
+        ],
+        "question": "Did the database query have optimized code?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_16_rewrite",
+        "difficulty": "hard",
+        "premises": [
+            "If the temperature rises above 25°C, then the automatic sprinkler system activates.",
+            "If the automatic sprinkler system activates, then the soil moisture level increases.",
+            "The soil moisture level did not increase."
+        ],
+        "question": "Did the temperature rise above 25°C?",
+        "answer": "No"
+    },
+    {
+        "id": "propositional_18_rewrite",
+        "difficulty": "hard",
+        "premises": [
+            "If the temperature drops below freezing, the antifreeze system activates.",
+            "If frost forms and the antifreeze system does not activate, the pipes burst.",
+            "The pipes did not burst.",
+            "Frost formed."
+        ],
+        "question": "Did the temperature drop below freezing?",
+        "answer": "Unknown"
+    }
+]

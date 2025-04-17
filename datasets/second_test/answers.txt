@@ -1,0 +1,17 @@
+ID: propositional_04_rewrite
+No
+
+ID: propositional_05_rewrite
+No
+
+ID: propositional_11_rewrite
+No
+
+ID: propositional_15_rewrite
+Unknown
+
+ID: propositional_16_rewrite
+No
+
+ID: propositional_18_rewrite
+Yes

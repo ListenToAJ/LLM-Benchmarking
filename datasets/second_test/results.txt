@@ -1,0 +1,27 @@
+
+Results Summary:
+Total questions: 6
+Correct answers: 4
+Incorrect answers: 2
+Accuracy: 66.67%
+
+Incorrect Answers:
+
+1. Question ID: propositional_15_rewrite
+   Question: Did the database query have optimized code?
+   Premises:
+     - All computer programs with optimized code execute within 2 seconds.
+     - Some computer programs without optimized code also execute within 2 seconds.
+     - The database query did not execute within 2 seconds.
+   Correct answer: No
+   Your answer: Unknown
+
+2. Question ID: propositional_18_rewrite
+   Question: Did the temperature drop below freezing?
+   Premises:
+     - If the temperature drops below freezing, the antifreeze system activates.
+     - If frost forms and the antifreeze system does not activate, the pipes burst.
+     - The pipes did not burst.
+     - Frost formed.
+   Correct answer: Unknown
+   Your answer: Yes
