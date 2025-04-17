@@ -44,5 +44,5 @@ No
 ```
 4. Paste the results into some .txt file and run the script **[score_answers.py](../../src/score_answers.py)**.  Arguments provided will be the initial test and LLM answers txt file.
 ```bash
-python3 src/score_answers.py datasets/third_test/test.json datasets/third_test/answers.txt > datasets/third_test/results.txt
+python3 src/score_answers.py datasets/first_test/test.json datasets/first_test/answers.txt > datasets/first_test/results.txt
 ```
