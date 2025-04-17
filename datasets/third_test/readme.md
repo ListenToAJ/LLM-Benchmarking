@@ -1,4 +1,4 @@
-# Logical Reasoning Benchmark - Second Test
+# Logical Reasoning Benchmark - Third Test
 
 ## Overview
 This benchmark further tests the logical reasoning of Deepseek.  In the previous tests I found that first, Deepseek failed multiple logic puzzles involving human behavior / decisions, and second, that when reworded to avoid those subjects, it performed better.  This third and final test takes the rewritten problems from the second test and replaces their original tests in the first to see what happens if the first test was performed with changes made from the second.
